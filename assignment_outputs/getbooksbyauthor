@@ -1,0 +1,2 @@
+curl -X GET "http://localhost:5000/author/Chinua%20Achebe"
+[{"isbn":"1","author":"Chinua Achebe","title":"Things Fall Apart","reviews":{}}]
